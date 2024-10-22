@@ -1,0 +1,8 @@
+Try and get powerline symbols for the status line
+    - Theme repo: https://github.com/vim-airline/vim-airline-themes#vim-airline-themes--
+    - Powerline symbols for WSL: https://stackoverflow.com/questions/63148517/how-to-install-powerline-fonts-on-wsl
+
+Set up custom backgrounds for windows terminal
+    https://powershellisfun.com/2023/06/06/changing-your-windows-terminal-background-image/
+
+Fix weird E symbol beside branch name
